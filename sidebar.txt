@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gji:home|Door43 (gji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gji|d43-gji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gji/archive/master.zip|d43-gji.zip]]
+
+**Recent Changes**
+{{changes>ns = gji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gji|Ethnologue data]]
+
